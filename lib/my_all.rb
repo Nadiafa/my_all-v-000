@@ -9,5 +9,8 @@ def my_all?(collection)
   end 
   if returns.include?(false)
     false
+  else
+    true 
+  end
   end
 end
